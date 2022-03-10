@@ -6,11 +6,21 @@
 
 - 🏃🏼‍♀️💨 I am a registered Physiotherapist and have a passion for increasing healthcare quality through technology
 
-- 💬🎥 Ask me about my latest project, [**Catchlight!**](https://catchlight-media.herokuapp.com/register)
-
 - 📜📄Check out my [**resume**](https://drive.google.com/file/d/1LvfcKpNCgrGiniY0qRUgVfzDgAr626ON/view?usp=sharing)
 
 - 🥏⚡ Fun Fact: I am an Australian Ultimate Championship gold medal winner!🦘 🌏
+
+- 💬🎥 Ask me about my latest project, [**Catchlight!**](https://catchlight-media.herokuapp.com/register)
+
+ <p align="center">
+<a href="https://github.com/rewpt/catchlight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rewpt&repo=catchlight" />
+</a>
+<a href="https://github.com/rewpt/catchlight-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rewpt&repo=catchlight-api" />
+</a>
+</p>
+
   <hr/>
   <h3 align="center">Connect with me:</h3>
   <p align="center">
@@ -25,5 +35,6 @@
   <p align="center">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=rewpt&theme=gotham&show_icons=true" />
 
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewpt&theme=gotham&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewpt&theme=gotham&layout=compact" />
+
   </p>
