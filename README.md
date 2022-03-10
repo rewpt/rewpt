@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Zev, and I am a full-stack developer living in Toronto, Canada. I love learning about modern technologies and using them to find better ways to solve problems.
+Check out my latest project, Catchlight, a social media platform where you can log reviews and chat about movies with your friends!
+
+![Zev's GitHub stats](https://github-readme-stats.vercel.app/api?username=rewpt&theme=dark&show_icons=true)
+
 <!--
 **rewpt/rewpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
