@@ -6,7 +6,7 @@
 
 - 💬 Ask me about my latest project, [**Catchlight!**](https://catchlight-media.herokuapp.com/register)
 
-- 📄 Check out my resume [**Resume**](https://drive.google.com/file/d/1LvfcKpNCgrGiniY0qRUgVfzDgAr626ON/view?usp=sharing)
+- 📄 Check out my [**resume**](https://drive.google.com/file/d/1LvfcKpNCgrGiniY0qRUgVfzDgAr626ON/view?usp=sharing)
 
 - ⚡ Fun fact **I am an Australian Ultimate Championship gold medal winner!**
 
