@@ -12,14 +12,12 @@
 
 - 💬🎥 Ask me about my latest project, [**Catchlight!**](https://catchlight-media.herokuapp.com/register)
 
- <p align="center">
-<a href="https://github.com/rewpt/catchlight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rewpt&repo=catchlight" />
-</a>
-<a href="https://github.com/rewpt/catchlight-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rewpt&repo=catchlight-api" />
-</a>
-</p>
+  <a href="https://github.com/rewpt/catchlight">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rewpt&repo=catchlight" />
+  </a>
+  <a href="https://github.com/rewpt/catchlight-api">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rewpt&repo=catchlight-api" />
+  </a>
 
   <hr/>
   <h3 align="center">Connect with me:</h3>
