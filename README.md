@@ -10,7 +10,7 @@
 
 - 📜📄Check out my [**resume**](https://drive.google.com/file/d/1LvfcKpNCgrGiniY0qRUgVfzDgAr626ON/view?usp=sharing)
 
-- 🥏⚡ I am an Australian Ultimate Championship gold medal winner!🦘 🌏
+- 🥏⚡ Fun Fact: I am an Australian Ultimate Championship gold medal winner!🦘 🌏
   <hr/>
   <h3 align="center">Connect with me:</h3>
   <p align="center">
