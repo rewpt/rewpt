@@ -1,15 +1,12 @@
-(https://github.com/rewpt/rewpt/blob/main/img/GH_banner.png?raw=true)
-
-<h1 align="center">Hi 👋, I'm Zev</h1>
-<h3 align="center">I am a full-stack developer living in Toronto, Canada. I love learning about modern technologies and using them to find better ways to solve problems.</h3>
-
-<div> ![Hi, I'm Zev! I love learning about modern technologies and using them for more efficient problem solving. ](https://github.com/rewpt/rewpt/blob/main/img/blacktext_banner.png?raw=true) </div>
+<p align="center">
+  <img src="https://github.com/rewpt/rewpt/blob/main/img/ghbanner.png?raw=true" />
+</p>
 
 - 🌱 I’m currently learning **Docker, Framer Motion for React and Python**
 
-- 💬 Ask me about **my latest project, Catchlight!**
+- 💬 Ask me about my latest project, [**Catchlight!**](https://catchlight-media.herokuapp.com/register)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LvfcKpNCgrGiniY0qRUgVfzDgAr626ON/view?usp=sharing)
+- 📄 Check out my resume [**Resume**](https://drive.google.com/file/d/1LvfcKpNCgrGiniY0qRUgVfzDgAr626ON/view?usp=sharing)
 
 - ⚡ Fun fact **I am an Australian Ultimate Championship gold medal winner!**
 
@@ -25,20 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rewpt&show_icons=true&locale=en" alt="rewpt" /></p>
 
-### Hi there 👋, my name is Zev
-
-#### I am a full-stack developer living in Toronto, Canada. I love learning about modern technologies and using them to find better ways to solve problems.
-
-![Hi, I'm Zev! I love learning about modern technologies and using them for more efficient problem solving. ](https://github.com/rewpt/rewpt/blob/main/img/blacktext_banner.png?raw=true)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page.
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rewpt) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zev-permack/)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rewpt)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rewpt&show_icons=true)
