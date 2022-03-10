@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/rewpt/rewpt/blob/main/img/ghbanner.png?raw=true" />
+  <img src="https://github.com/rewpt/rewpt/blob/main/img/ghbannertext.png?raw=true" />
 </p>
 
 - 🌱 I’m currently learning **Docker, Framer Motion for React and Python**
