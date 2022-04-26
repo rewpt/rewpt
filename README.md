@@ -2,7 +2,7 @@
   <img src="https://github.com/rewpt/rewpt/blob/main/img/ghbannersmall.png?raw=true" />
 </p>
 
-- 🌱👨‍💻 I’m currently learning **Typescript, Framer Motion for React and Python**
+- 🌱👨‍💻 I’m currently building apps with **Typescript, Framer Motion for React and Python**
 
 - 🏃🏼‍♀️💨 I am a registered Physiotherapist and have a passion for increasing healthcare quality through technology
 
